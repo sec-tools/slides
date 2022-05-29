@@ -1,2 +1,2 @@
 # slides
-Presentation slides from over the last decade
+Presentation slides from various infosec conferences over the last decade
